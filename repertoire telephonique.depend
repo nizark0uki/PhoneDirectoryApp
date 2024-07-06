@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712587707 source:c:\users\skymil\desktop\test\repertoire\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1712587599 c:\users\skymil\desktop\test\repertoire\liste.h
+
+1712587707 source:c:\users\skymil\desktop\projet nizar\repertoire telephonique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1712587599 c:\users\skymil\desktop\projet nizar\repertoire telephonique\liste.h
+
